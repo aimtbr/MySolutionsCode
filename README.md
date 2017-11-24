@@ -1,6 +1,10 @@
 # MySolutionsCode
 Own solutions of different programming tasks.
 
+!!!
+Download for the best readability.
+!!!
+
 Here will be a description of tasks and the name of the file containing the solution.
 
 
