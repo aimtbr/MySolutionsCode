@@ -1,13 +1,12 @@
 # MySolutionsCode
 Own solutions of different programming tasks.
+Here will be descriptions of tasks and the names of the files containing the solution.
 
 Directories:
 	
 1.JavaSol directory consists of different programms written on Java.
 2.PythonSol directory consists of different programms written on Python.
 
-
-Here will be descriptions of tasks and the names of the files containing the solution.
 				
 -------------------------------> Java solutions <-------------------------------
 
@@ -137,6 +136,7 @@ Line.Tickets(new int []{25, 100})
 	Given a file containing text.
 	7.1 Write down all the words in the sentences backwards into another file.
 	7.2 Write down all the characters in the words backwards into another file.
+<<<<<<< HEAD
 
 
 -------------------------------> Python solutions <-------------------------------
@@ -436,3 +436,5 @@ anagrams('laser', ['lazing', 'lazy',  'lacer']) => []
 
 
 
+=======
+>>>>>>> 8e28ff6035f9daba1a468d755eb581ae41bb51d4
