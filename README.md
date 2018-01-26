@@ -1,5 +1,5 @@
 # MySolutionsCode
-Own solutions of different programming tasks.
+My own solutions of different programming tasks.
 Here will be descriptions of tasks and the names of the files containing the solution.
 
 Directories:
@@ -242,7 +242,7 @@ Example
 	The most frequent task in this test is to find out which one of the given
 	numbers differs from the others.
 	Bob observed that one number usually differs from the others in evenness.
-	Help Bob — to check his answers, he needs a program that among the given 
+	Help Bob â€” to check his answers, he needs a program that among the given 
 	numbers finds one that is different in evenness, and return a position of this number.
 
 	! Keep in mind that your task is to help Bob solve a real IQ test, 
