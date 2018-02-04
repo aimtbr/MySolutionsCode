@@ -3,9 +3,7 @@ from tkinter import *
 
 
 class TestGame(Frame):
-    board = [["|", "|", "|"], ["|", "|", "|"], ["|", "|", "|"],
-             ["|", "|", "|"], ["|", "|", "|"], ["|", "|", "|"],
-             ["|", "|", "|"]]
+    board = [["|" for x in range(3)] for i in range(7)]]
     bo = False
     car = 1
     counter = 0
