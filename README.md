@@ -1,4 +1,4 @@
-# MySolutionsCode
+﻿# MySolutionsCode
 My own solutions of different programming tasks.
 Here will be descriptions of tasks and the names of the files containing the solution.
 
@@ -436,5 +436,58 @@ anagrams('laser', ['lazing', 'lazy',  'lacer']) => []
 
 
 
-=======
->>>>>>> 8e28ff6035f9daba1a468d755eb581ae41bb51d4
+
+12. Name of the file: "course_work.py"
+    Additional files: "course_work_ui.py"
+	
+	You need to develop a program to manage the database and store data using XML file.
+
+
+
+
+
+13. Name of the file: "hierarchical.py"
+	
+	This program is like a "course_work.py", but realization is different and this is a console app.
+
+
+
+
+
+14. Name of the file: "roman.py"
+    Additional files: "romanconvert.py"
+    Directory: /Light IT Task
+
+	Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. 
+	You don't need to validate the form of the Roman numeral.
+
+	Modern Roman numerals are written by expressing each decimal digit of the number to be encoded separately, 
+	starting with the leftmost digit and skipping any 0s. 
+	So 1990 is rendered "MCMXC" (1000 = M, 900 = CM, 90 = XC) and 2008 is rendered "MMVIII" (2000 = MM, 8 = VIII). 
+	The Roman numeral for 1666, "MDCLXVI", uses each letter in descending order.
+
+
+
+
+
+15. Name of the file: "same_structure.py"
+	
+	Complete the function to return True when its argument is an array that 
+	has the same nesting structure as the first array.
+
+
+For example:
+
+# should return True
+same_structure_as([ 1, 1, 1 ], [ 2, 2, 2 ] )
+same_structure_as([ 1, [ 1, 1 ] ], [ 2, [ 2, 2 ] ] )
+
+# should return False 
+same_structure_as([ 1, [ 1, 1 ] ], [ [ 2, 2 ], 2 ] )
+same_structure_as([ 1, [ 1, 1 ] ], [ [ 2 ], 2 ] )
+
+# should return True
+same_structure_as([ [ [ ], [ ] ] ], [ [ [ ], [ ] ] ] )
+
+# should return False
+same_structure_as([ [ [ ], [ ] ] ], [ [ 1, 1 ] ] )
