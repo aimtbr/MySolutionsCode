@@ -8,7 +8,7 @@ Directories:
 2.PythonSol directory consists of different programms written on Python.
 
 				
--------------------------------> Java solutions <-------------------------------
+#-------------------------------> Java solutions <-------------------------------
 
 
 1. Name of the file: "DuplicateEncoder.java"
@@ -139,7 +139,7 @@ Line.Tickets(new int []{25, 100})
 <<<<<<< HEAD
 
 
--------------------------------> Python solutions <-------------------------------
+#-------------------------------> Python solutions <-------------------------------
 
 
 1. Name of the file: "tst_gm.py"
