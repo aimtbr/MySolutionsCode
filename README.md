@@ -8,7 +8,7 @@ Directories:
 2.PythonSol directory consists of different programms written on Python.
 
 				
-#-------------------------------> Java solutions <-------------------------------
+# -------------------------------> Java solutions <-------------------------------
 
 
 1. Name of the file: "DuplicateEncoder.java"
